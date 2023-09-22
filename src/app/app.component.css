@@ -1,0 +1,49 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 15px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: 400;
+
+}
+form {
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+form input{
+  padding: 5px;
+  margin: 5px;
+  border-radius: 5px;
+}
+h2 {
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+}
+
+form button{
+  padding: 5px;
+  background-color: blue;
+  color: white;
+  border-radius: 5px;
+}
+
+table {
+  background-color: black;
+  color: white;
+}
+
+p {
+  padding: 15px;
+}
+
+table button {
+  padding: 5px;
+  background-color: blue;
+  color: white;
+  border-radius: 5px;
+}
